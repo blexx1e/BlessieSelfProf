@@ -1,0 +1,43 @@
+div{ background: lightpink; border: 2px solid ;  padding: 20px;
+    text-align: center;
+    }
+  h1{
+      color: black; font-size: 30px;
+  }
+
+  img{
+      width:150px; height:150px; border-radius: 75px; border-style: solid; 
+  }
+
+  .links a {
+             text-decoration: none; color: black;
+  }	
+
+  
+  h3{
+      width: 100%; background-color: white;
+                text-align: left;
+  }
+  table, th, td { 
+    border:1px solid;
+    border-collapse: collapse; font-family: arial;
+   }
+
+   h4{
+       width: 100%; text-align: start;
+   }
+
+   th{
+       width: 10%; background-color: white;
+        text-align: center;
+   }
+
+   h3{
+       width: 100%; background-color: white;
+      text-align: start;
+   }
+
+   h4{
+       width: 100%; background-color: white;
+       text-align: start;
+   }
